@@ -21,7 +21,7 @@ Return:
     "encryptedData": "f5512f1cceaf321bd2259ed79e831acb"
 }
 ```
-
+---
 ### Decrypt
 `http://localhost:8080/decrypt/test`  
 with the body:
